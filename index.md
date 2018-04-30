@@ -16,6 +16,7 @@ Hello, I am Steffen, and this is my little GitHub pages playground. Below is a l
 
 ## News
 
+* 2018-04-30: Released [Spoiler plugin](https://github.com/schulle4u/yellow-plugin-spoiler) for Datenstrom Yellow.
 * 2018-03-21: Yellow TuneIn plugin updated, added an autoplay option. 
 
 ## My repositories
@@ -40,6 +41,8 @@ Hello, I am Steffen, and this is my little GitHub pages playground. Below is a l
   Privacy-friendly social sharing buttons for Yellow.
 * [Skipto](https://github.com/schulle4u/yellow-plugin-skipto): 
   Yellow plugin that adds SkipTo-links for keyboard navigation.
+* [Spoiler](https://github.com/schulle4u/yellow-plugin-spoiler):
+  Hide certain page elements.
 * [Ticker](https://github.com/schulle4u/yellow-plugin-ticker): 
   A RSS parser plugin for yellow.
 * [TuneIn](https://github.com/schulle4u/yellow-plugin-tunein): 
